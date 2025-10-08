@@ -37,6 +37,7 @@ To add our C# Script file to our selected object, click on the C# Script file an
 Stop
 
 ## Program:
+```
  UnityEngine;
 
 public class NewMonoBehaviourScript : MonoBehaviour
@@ -54,7 +55,7 @@ public class NewMonoBehaviourScript : MonoBehaviour
         
     }
 }
-
+```
 ## Output:
 ![alt text](image.png)
 ## Result:
